@@ -1,0 +1,24 @@
+{
+    "dependencies": {
+        "mongoose": "^6.5.4",
+        "nodemon": "^2.0.19"
+    },
+    "name": "project",
+    "description": "",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DebkumarDas/Project.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/DebkumarDas/Project/issues"
+    },
+    "homepage": "https://github.com/DebkumarDas/Project#readme"
+}
