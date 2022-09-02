@@ -9,15 +9,15 @@ mongoose.connect("mongodb://localhost:27017/login", function(err) {
 const user = new mongoose.Schema({
     name: {
         type: String,
-        requred: true
+        required: true
     },
     email: {
         type: String,
-        requred: true
+        required: true
     },
     password: {
         type: Number,
-        requred: true
+        required: true
     }
 })
 
